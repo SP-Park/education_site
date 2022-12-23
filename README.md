@@ -1,4 +1,4 @@
-- Education company Site. 
+- Education company Site. (Korean)
 
 Demo: https://happycloude-react-edu.web.app/
 
